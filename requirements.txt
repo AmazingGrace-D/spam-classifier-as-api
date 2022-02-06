@@ -5,4 +5,5 @@ jupyter
 pandas
 pypyr
 python-dotenv
+scikit-learn
 uvicorn
